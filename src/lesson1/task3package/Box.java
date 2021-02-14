@@ -52,6 +52,5 @@ public class Box <T extends Fruit> {
         appleBox2.replaceFruit(appleBox);
         Orange[] oranges = new Orange[10];
         orangeBox.add(oranges);
-
     }
 }
